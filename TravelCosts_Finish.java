@@ -12,10 +12,6 @@ import java.util.Scanner;
 public class TravelCosts_Finish {
 
     public static void main(String[] args) {
-//        double distance;
-//        double mpg;
-//        double pricePerGallon;
-//        double totalCost;
         double distance, mpg, pricePerGallon, totalCost;
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the total distance in miles: ");

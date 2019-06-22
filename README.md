@@ -11,7 +11,9 @@ Before Compilation<br />
 <img src="images/compilation-01-before.png" alt="" width=""><br />
 Compiling with javac<br />
 <img src="images/compiling_with_javac.png" alt="" width="351px"><br />
-After Compilation<br />
+After Compilation<br/>
+Immediately after the compilation is done, you'll see that another file was created<br />
+that file with extension <b>".class"</b> is what in Java is known as <b>"bytecode"</b><br />
 <img src="images/compilation-02-after-v3.png" alt="" width=""><br />
 Running java code<br />
 <img src="images/running_with_java.png" alt="" width=""><br />

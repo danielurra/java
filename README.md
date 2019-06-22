@@ -5,7 +5,7 @@ Once you have the Java JDK installed on your computer you can navigate the folde
 are located.<br/>
 The first thing you'll have to do is to set the java bin folder as a system PATH, see image below:<br/>
 <img src="images/java-set-path.png" alt="" width="709px"><br />
-We are going to use 2(two) executable files, "javac.exe" when compiling and "java.exe" when running<br/>
+We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>
 Running java code will invoke the java Virtual Machine in the background, totally transparent for us<br/>
 Before Compilation<br />
 <img src="images/compilation-01-before.png" alt="" width=""><br />

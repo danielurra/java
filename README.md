@@ -12,12 +12,12 @@ See below screenshot:<br/>
 We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>
 <b>java.exe</b> will invoke the java Virtual Machine in the background, totally transparent for us<br/>
 <br/>
-Before Compilation<br />
+<b>Before Compilation</b><br />
 <img src="images/compilation-01-before.png" alt="" width=""><br />
 ## Compiling with javac<br />
 <img src="images/compiling_with_javac.png" alt="" width="351px"><br />
 <br/>
-After Compilation<br/>
+<b>After Compilation</b><br/>
 Immediately after the compilation is done, you'll see that another file was created<br />
 that file with extension <b>".class"</b> is what in Java is known as <b>"bytecode"</b><br />
 <img src="images/compilation-02-after-v3.png" alt="" width=""><br />

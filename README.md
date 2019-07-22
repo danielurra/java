@@ -1,7 +1,7 @@
 ## Java Repository
 In order to be able to compile and run Java code in your computer, you must install the Java JDK<br />
 JDK stands for "<b>Java Development Kit</b>"<br />
-Once you have the Java JDK installed on your computer you can navigate the folder where all the executable files<br/>
+Once you have JDK installed on your computer you can navigate the folder where all the executable files<br/>
 are located.<br/>
 The first thing you'll have to do is to set the java bin folder as a system PATH, see image below:<br/>
 <img src="images/java-set-path.png" alt="" width="709px"><br />

@@ -11,7 +11,7 @@ where all the executable files are located<br/>
 The first thing you'll have to do is to add the Java's bin folder path inside the system's PATH<br/>
 <br/>
 PATH is an "<b>environment variable</b>" that tells the OS where to find executable files<br/>
-See below screenshot:<br/>
+You must use the "<b>set path</b>" CLI command as shown below:<br/>
 <img src="images/java-set-path.png" alt="" width="709px"><br />
 ## Compile then run
 We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>

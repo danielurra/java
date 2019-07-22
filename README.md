@@ -8,6 +8,7 @@ The first thing you'll have to do is to add the Java's bin folder path inside th
 PATH is an "<b>environment variable</b>" that tells the OS where to find executable files<br/>
 See below screenshot:<br/>
 <img src="images/java-set-path.png" alt="" width="709px"><br />
+## Compile then run
 We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>
 <b>java.exe</b> will invoke the java Virtual Machine in the background, totally transparent for us<br/>
 Before Compilation<br />

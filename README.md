@@ -14,6 +14,12 @@ PATH is an "<b>environment variable</b>" that tells the OS where to find executa
 <br/>
 You must use the "<b>set path</b>" CLI command as shown below:<br/>
 <img src="images/java-set-path.png" alt="" width="709px"><br />
+<br/>
+## Java Hello World!
+As you can see, even the simple and classic "<b>Hello World</b>" code is a little bit</br>
+complicated in Java</br>
+<img src="images/java-hello-world.png" alt="" width=""><br />
+
 ## Compile then run
 We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>
 <b>java.exe</b> will invoke the java Virtual Machine in the background, totally transparent for us<br/>
@@ -29,10 +35,6 @@ that file with extension <b>".class"</b> is what in Java is known as <b>"bytecod
 <img src="images/compilation-02-after-v3.png" alt="" width=""><br />
 ## Running java code<br />
 <img src="images/running_with_java.png" alt="" width=""><br />
-## Java Hello World!
-As you can see, even the simple and classic "<b>Hello World</b>" code is a little bit</br>
-complicated in Java</br>
-<img src="images/java-hello-world.png" alt="" width=""><br />
 
 
 

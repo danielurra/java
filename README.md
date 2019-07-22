@@ -11,6 +11,7 @@ See below screenshot:<br/>
 ## Compile then run
 We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>
 <b>java.exe</b> will invoke the java Virtual Machine in the background, totally transparent for us<br/>
+<br/>
 Before Compilation<br />
 <img src="images/compilation-01-before.png" alt="" width=""><br />
 ## Compiling with javac<br />

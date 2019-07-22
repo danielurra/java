@@ -3,7 +3,8 @@ In order to be able to compile and run Java code in your computer, you must inst
 JDK stands for "<b>Java Development Kit</b>"<br />
 Once you have JDK installed on your computer you can navigate the folder where all the executable files<br/>
 are located.<br/>
-The first thing you'll have to do is to set the java bin folder as a system PATH, see image below:<br/>
+The first thing you'll have to do is to put the Java's bin folder inside the system's PATH<br/>
+PATH is an "environment variable" that tells the OS where to find executable files<br/>
 <img src="images/java-set-path.png" alt="" width="709px"><br />
 We are going to use 2(two) executable files, <b>"javac.exe"</b> when compiling and <b>"java.exe"</b> when running<br/>
 <b>java.exe</b> will invoke the java Virtual Machine in the background, totally transparent for us<br/>

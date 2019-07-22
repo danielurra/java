@@ -32,7 +32,7 @@ that file with extension <b>".class"</b> is what in Java is known as <b>"bytecod
 ## Java Hello World
 As you can see, even the simple and classic "<b>Hello World!</b>" code is a little bit</br>
 complicated in Java</br>
-<img src="images/compilation-02-after-v3.png" alt="" width=""><br />
+<img src="images/java-hello-world.png" alt="" width=""><br />
 
 
 

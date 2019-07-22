@@ -7,6 +7,7 @@ where all the executable files are located<br/>
 <br/>
 <b>Java's Bin folder location</b>
 <img src="images/java-bin-folder.png" alt="" width=""><br />
+<br/>
 The first thing you'll have to do is to add the Java's bin folder path inside the system's PATH<br/>
 <br/>
 PATH is an "<b>environment variable</b>" that tells the OS where to find executable files<br/>

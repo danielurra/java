@@ -54,6 +54,11 @@ jshell
 System.out.println("Hello JDK 19!")
 ```
 ![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
+## Exit JShell
+```bash
+/exit
+```
+![jshell-03](https://github.com/danielurra/java/assets/51704179/0370a258-e7b6-4354-9803-76bab3890759)
 
 
 

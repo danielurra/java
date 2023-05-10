@@ -44,6 +44,11 @@ This is very helpful for beginners.
 java --version
 ```
 ![jshell-00](https://github.com/danielurra/java/assets/51704179/d18fbe3a-35ac-4088-a9c7-fca64626d53d)
+## Launch JShell
+```bash
+jshell
+```
+![jshell-01](https://github.com/danielurra/java/assets/51704179/45345190-7348-4e1d-8361-ad5883d8442f)
 
 
 

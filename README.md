@@ -35,6 +35,16 @@ that file with extension <b>".class"</b> is what in Java is known as <b>"bytecod
 <img src="images/compilation-02-after-v3.png" alt="" width=""><br />
 ## Running java code<br />
 <img src="images/running_with_java.png" alt="" width=""><br />
+## JShell
+Those of you who are new to Java programming, could take advantage of "JShell" which is often helpful for trying out the code snippets.
+JDK 9 and above include this tool that lets you execute a snippet of Java code instead of writing a full Java program.
+This is very helpful for beginners.
+## Java version
+```bash
+java --version
+```
+![jshell-00](https://github.com/danielurra/java/assets/51704179/d18fbe3a-35ac-4088-a9c7-fca64626d53d)
+
 
 
 

@@ -59,6 +59,9 @@ System.out.println("Hello JDK 19!")
 /exit
 ```
 ![jshell-03](https://github.com/danielurra/java/assets/51704179/0370a258-e7b6-4354-9803-76bab3890759)
+## Eclipse IDE
+A Package declaration is something needed when running the java Hello World code using Eclipe IDE
+![eclipse-ide-hello-world](https://github.com/danielurra/java/assets/51704179/ffc979c5-0060-4ead-80ff-90eb5f0bd7b9)
 
 
 

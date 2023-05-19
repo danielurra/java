@@ -70,7 +70,23 @@ System.out.println("Hello JDK 19!")
 ## Eclipse IDE
 ![Eclipse-Luna-Logo](https://github.com/danielurra/java/assets/51704179/e4b37f7e-005f-477b-a13f-049895bcc9fe)<br/>
 A Package declaration is something needed when running the java Hello World code using Eclipe IDE
-![eclipse-ide-hello-world](https://github.com/danielurra/java/assets/51704179/ffc979c5-0060-4ead-80ff-90eb5f0bd7b9)
+![eclipse-ide-hello-world](https://github.com/danielurra/java/assets/51704179/ffc979c5-0060-4ead-80ff-90eb5f0bd7b9)<br/>
+## Declare a Variable as Integer and set a value
+``` java
+package package01;
 
+public class HelloWorld {
+
+	public static void main(String[] args) {
+//		Declare and set in one line 
+		Integer myfirstvar = 77;
+//		 Print the value concatenated (plus sign +) with some random text for better understanding
+		System.out.println("My first variable has a value of: " + myfirstvar);
+	}
+}
+```
+## See the console
+
+![declare-and-set-in-one-line](https://github.com/danielurra/java/assets/51704179/0cbb9d8b-95d9-4562-85f3-5e9f746004c2)
 
 

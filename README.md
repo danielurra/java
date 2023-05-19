@@ -13,10 +13,15 @@ The first thing you'll have to do is to add the Java's bin folder path inside th
 PATH is an "<b>environment variable</b>" that tells the OS where to find executable files<br/>
 <br/>
 You must use the "<b>set path</b>" CLI command as shown below:<br/>
-```cmd
+```
 set path=%path%;C:\Program Files\Java\jdk-19\bin
 ```
 <img src="images/java-set-path.png" alt="" width="709px"><br />
+You can echo the variable to see if the new entry is there now
+```
+echo %PATH%
+```
+![echo path](https://github.com/danielurra/java/assets/51704179/2c7e7a29-2d8d-43bc-abe2-35d072ac6b17)
 <br/>
 ## Java Hello World!
 As you can see, even the simple and classic "<b>Hello World</b>" code is a little bit</br>

@@ -16,7 +16,7 @@ You must use the "<b>set path</b>" CLI command as shown below:<br/>
 ```
 set path=%path%;C:\Program Files\Java\jdk-19\bin
 ```
-<img src="images/java-set-path.png" alt="" width="709px"><br />
+![set-path](https://github.com/danielurra/java/assets/51704179/d1f00084-d495-4ed8-a6a6-799b2ea30620)
 You can echo the variable to see if the new entry is there now
 ```
 echo %PATH%

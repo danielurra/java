@@ -24,7 +24,7 @@ echo %PATH%
 ![echo path](https://github.com/danielurra/java/assets/51704179/2c7e7a29-2d8d-43bc-abe2-35d072ac6b17)
 <br/>
 ## Java Hello World!
-As you can see, even the simple and classic "<b>Hello World</b>" code is a little bit</br>
+As you can see, even the simple and classic "<b>Hello World</b>" code looks as little bit</br>
 complicated in Java</br>
 <img src="images/java-hello-world.png" alt="" width=""><br />
 

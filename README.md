@@ -6,7 +6,7 @@ Once you have JDK installed on your computer you can navigate to the folder<br/>
 where all the executable files are located<br/>
 <br/>
 <b>Java's Bin folder location</b>
-<img src="images/java-bin-folder.png" alt="" width=""><br />
+![java-bin-folder](https://github.com/danielurra/java/assets/51704179/4f3bdd3e-75f1-45d1-9259-722647880bb3)</br>
 <br/>
 The first thing you'll have to do is to add the Java's bin folder path inside the system's PATH<br/>
 <br/>

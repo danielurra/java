@@ -1,5 +1,5 @@
 ## Java
-In order to be able to compile and run Java code in your computer, you must install the Java JDK<br />
+In order to be able to `compile and run` Java code in your computer, you must install the Java JDK<br />
 JDK stands for "<b>Java Development Kit</b>"<br />
 <br/>
 Once you have JDK installed on your computer you can navigate to the folder<br/>

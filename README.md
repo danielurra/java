@@ -61,6 +61,7 @@ jshell
 ```bash
 System.out.println("Hello JDK 19!")
 ```
+`No semicolons needed`</br>
 ![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
 ## Exit JShell
 ```bash

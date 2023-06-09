@@ -58,10 +58,10 @@ jshell
 ```
 ![jshell-01](https://github.com/danielurra/java/assets/51704179/45345190-7348-4e1d-8361-ad5883d8442f)
 ## Eexecute your first Java snippet of code
+**No semicolons needed**</br>
 ```bash
 System.out.println("Hello JDK 19!")
 ```
-**No semicolons needed**</br>
 ![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
 ## Exit JShell
 ```bash

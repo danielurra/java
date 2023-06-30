@@ -48,6 +48,7 @@ Those of you who are new to Java programming, could take advantage of "JShell" w
 JDK 9 and above include this tool that lets you execute a snippet of Java code instead of writing a full Java program.<br>
 * For Beginners -> Learning and syntax
 * For Developers -> Execute part of program in simple way
+  
 JShell is a `Read-Evaluate-Print-Loop` (**REPL**), which evaluates declarations, statements, and expressions as they are entered and immediately shows the 
 results.<br>
 ## Java version

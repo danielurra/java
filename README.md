@@ -1,6 +1,21 @@
 ## Java
 ![java-220x110px](https://github.com/danielurra/java/assets/51704179/9ab8e305-6608-4b99-94b3-7fb66d8a5c33)<br>
-In order to be able to `compile and run` Java code in your computer, Java JDK must be installed on your computer<br />
+Java is a computer programming language that is **concurrent, class-based and object-oriented**.<br>
+The advantages of `object oriented software development` are shown below:<br>
+
+* Modular development of code, which leads to easy maintenance and modification
+* Reusability of code
+* Improved reliability and flexibility of code
+* Increased understanding of code
+
+Object-oriented programming contains many significant features, such as:<br>
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+  
+In order to be able to `compile and run` Java code in your computer, Java JDK must be installed on your computer<br/>
+
 **JDK** stands for "<b>Java Development Kit</b>"<br />
 <br/>
 Once you have JDK installed on your computer you can navigate to the folder<br/>

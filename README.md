@@ -1,4 +1,6 @@
 ## Java
+![java-220x110px](https://github.com/danielurra/java/assets/51704179/9ab8e305-6608-4b99-94b3-7fb66d8a5c33)<br>
+
 In order to be able to `compile and run` Java code in your computer, Java JDK must be installed on your computer<br />
 **JDK** stands for "<b>Java Development Kit</b>"<br />
 <br/>

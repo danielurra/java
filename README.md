@@ -46,7 +46,8 @@ that file with extension <b>".class"</b> is what in Java is known as <b>"bytecod
 ## JShell
 Those of you who are new to Java programming, could take advantage of "JShell" which is often helpful for trying out the code snippets.<br>
 JDK 9 and above include this tool that lets you execute a snippet of Java code instead of writing a full Java program.<br>
-This is very helpful for beginners.<br>
+* For Beginners -> Learning and syntax
+* For Developers -> Execute part of program in simple way
 JShell is a `Read-Evaluate-Print-Loop` (**REPL**), which evaluates declarations, statements, and expressions as they are entered and immediately shows the 
 results.<br>
 ## Java version

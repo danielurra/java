@@ -13,7 +13,9 @@ Object-oriented programming contains many significant features, such as:<br>
 * Inheritance
 * Polymorphism
 * Abstraction
-  
+![java-oops](https://github.com/danielurra/java/assets/51704179/fc77c788-f8be-40fd-bfa4-d168503f44fa)<br>
+
+## Compile and run Java code
 In order to be able to `compile and run` Java code in your computer, Java JDK must be installed on your computer<br/>
 
 **JDK** stands for "<b>Java Development Kit</b>"<br />

@@ -18,8 +18,7 @@ In order to be able to `compile and run` Java code in your computer, Java JDK mu
 
 **JDK** stands for "<b>Java Development Kit</b>"<br />
 <br/>
-Once you have JDK installed on your computer you can navigate to the folder<br/>
-where all the executable files are located<br/>
+Once you have JDK installed on your computer you can navigate to the folder where all the executable files are located<br/>
 <br/>
 <b>Java's Bin folder location</b>
 ![java-bin-folder](https://github.com/danielurra/java/assets/51704179/4f3bdd3e-75f1-45d1-9259-722647880bb3)</br>

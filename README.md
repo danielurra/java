@@ -97,6 +97,10 @@ jshell
 System.out.println("Hello JDK 19!")
 ```
 ![jshell-02](https://github.com/danielurra/java/assets/51704179/39fbe7de-e7a1-46c3-b2bc-63f6941b2d1c)
+## Seeing documentation
+Use the `TAB` key of your keyboard **twice** to see the built-in documentation
+![jshell-use-TAB-to-see-signatures-documentation](https://github.com/danielurra/java/assets/51704179/f9c5ecfa-1b8f-4e6c-b435-f37ad04a7686)
+
 ## Exit JShell
 ```bash
 /exit

@@ -42,6 +42,9 @@ echo %PATH%
 ![echo path](https://github.com/danielurra/java/assets/51704179/2c7e7a29-2d8d-43bc-abe2-35d072ac6b17)
 <br/>
 ## Java version
+```
+java --version
+```
 ![image](https://github.com/user-attachments/assets/d185fbad-9717-4c7e-8e46-ea3df0b16dde)
 ## Java Hello World!
 See below the classic **"Hello World"** in Java</br>
